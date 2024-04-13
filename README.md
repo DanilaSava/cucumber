@@ -1,7 +1,7 @@
 
-# **cucumber's labyrinth**
-## **cucumber's labyrinth**
-### **cucumber's labyrinth**
+# **jungle's labyrinth**
+## **jungle's labyrinth**
+### **jungle's labyrinth**
 
 | Files | Description |
 | ----------- | ----------- |
@@ -11,3 +11,5 @@
 |treasure.png |
 
 `code`
+
+This game is about jungle labyrinth and hero who wants to grab a treasure, but there is a problem....
